@@ -23,6 +23,8 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
+The dataset includes various attributes such as age, income, gender, education, occupation, marital status, and settlement size for 2,000 customers. This information has been collected through the loyalty cards used at checkout, providing a comprehensive view of customer characteristics.
+
 The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
 - **Table 2:**
 - **Table 3:**
@@ -43,9 +45,10 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 
-# Insights Deep Dive
-### Category 1:
+# Customer Segmentation
+### 1. Choosing the optimal number of clusters using the Elbow Method
 
+!(/Users/macosx/Documents/customer_segmentation/customer_segmentation/images/Screen Shot 2026-03-04 at 18.28.33.png)
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
