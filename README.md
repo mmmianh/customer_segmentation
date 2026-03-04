@@ -48,29 +48,16 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Customer Segmentation
 ### 1. Choosing the optimal number of clusters using the Elbow Method
 
-![elbow method](images/elbow)
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 1]
+![Elbow Curve](images/elbow)
 
 
-### Category 2:
+The Elbow Curve was created using **Elbow Method**. The **"elbow" point** in the chart indicates **three clusters** as the ideal segmentation for gaining valuable insights into our marketing strategies.
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 2]
+### 2. Estimate the clusters using K-means++ Clustering
+
+
+This table presents the KMeans++ clustering results, showing the average values for 7 variables across three clusters. The customer count column indicates how many customers fall into each cluster, with distinct profiles based on these attributes.
 
 
 ### Category 3:
