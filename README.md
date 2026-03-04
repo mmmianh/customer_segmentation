@@ -48,7 +48,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Customer Segmentation
 ### 1. Choosing the optimal number of clusters using the Elbow Method
 
-!(/Users/macosx/Documents/customer_segmentation/customer_segmentation/images/Screen Shot 2026-03-04 at 18.28.33.png)
+![dog](/Users/macosx/Documents/customer_segmentation/customer_segmentation/images/Screen Shot 2026-03-04 at 18.28.33.png)
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
