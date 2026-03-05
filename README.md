@@ -58,7 +58,7 @@ This table presents the KMeans++ clustering results, showing the average values 
 - **Cluster 2 (555 customers)**: This cluster represents middle-aged (with an average age of 40.06 years), non-single, high-school educated females living in smaller cities, working in skilled jobs with moderate incomes ($142,998 average).
 
 
-### Comparison of Clusters (K-means++ vs Agglomerative Clustering):
+### 4. Comparison of Clusters (K-means++ vs Agglomerative Clustering):
 
 Both K-means++ and Agglomerative Clustering identify similar customer segments with overlapping profiles. However, customer counts per cluster vary moderately. Despite slight differences in cluster centers due to the algorithms' optimization methods, the overall insights into customer groups remain consistent. Thus, both techniques effectively capture distinct segments, providing reliable analysis for further exploration.
 
