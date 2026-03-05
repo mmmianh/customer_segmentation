@@ -16,15 +16,14 @@ The dataset includes various attributes such as age, income, gender, education, 
 The Python queries used to inspect and clean the data for this analysis can be found here [link](EDA.ipynb).
 
 
-# Executive Summary
+# Customer Segmentation
 
-### Overview of Findings
+### Overview 
 
 To achieve our purpose, the clustering methods used in this report are the Elbow Method, K- means++, and Agglomerative Clustering. The Elbow Method determines the optimal number of customer segments by plotting the relationship between the number of clusters and the explained variance. K-means++ efficiently assigns customers to clusters, while Agglomerative Clustering groups customers based on their similarities.
 
 The Python queries used can be found here [link](CustomerSegmentation.ipynb). 
 
-# Customer Segmentation
 ### 1. Choosing the optimal number of clusters using the Elbow Method
 
 ![Elbow Curve](images/elbow)
